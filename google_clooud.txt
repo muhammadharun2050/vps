@@ -1,2 +1,2 @@
-$step-1: docker run -p 6070:80 drowu ubuntu-desktop-lxde-vnc
+$step-1: docker run -p 6070:80 drowu/ubuntu-desktop-lxde-vnc
 $step-2: change port, and give it 6070
